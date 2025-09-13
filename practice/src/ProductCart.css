@@ -1,0 +1,21 @@
+.product-container {
+    display: flex;
+    justify-content: center;
+    background-color: greenyellow;
+}
+
+.product-card {
+    border: 1px solid #ccc;
+    width: 300px;
+    margin: 50px;
+    padding: 50px;
+     background-color: greenyellow;
+}
+
+.available {
+    color: red;
+}
+
+.unavailable {
+    color: green;
+}

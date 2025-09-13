@@ -1,4 +1,5 @@
-function Greeting({receivedName,age}){
+import Greeting from "./Greeting.css"
+    function Greeting(){
     return(
         <>
         <p>Hello,{receivedName}</p>
@@ -9,3 +10,5 @@ function Greeting({receivedName,age}){
     
 
 export default Greeting
+
+
