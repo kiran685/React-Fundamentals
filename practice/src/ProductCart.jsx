@@ -11,7 +11,7 @@ function ProductCart({ name, price, isAvailable, imageUrl }) {
             padding: '20px',
             width: '200px',
             margin: '10px',
-            backgroundColor: '#605858ff', 
+            backgroundColor: '#fff7f7ff', 
             textAlign: 'center'
         }}>
             <img 
